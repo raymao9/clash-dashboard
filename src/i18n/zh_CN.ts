@@ -22,9 +22,8 @@ const CN = {
             externalController: '外部控制设置',
         },
         values: {
-            tw: '繁體中文',
             cn: '简体中文',
-            en: 'English',
+            en: '繁體中文',
             global: '全局',
             rules: '规则',
             direct: '直连',

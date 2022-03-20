@@ -10,12 +10,12 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Dreamacro/clash-dashboard.git"
+        "url": "git+https://github.com/raymao9/clash-dashboard.git"
     },
     "bugs": {
         "url": "https://github.com/Dreamacro/clash-dashboard/issues"
     },
-    "homepage": "https://github.com/Dreamacro/clash-dashboard",
+    "homepage": "https://github.com/raymao9/clash-dashboard",
     "scripts": {
         "start": "vite",
         "build": "vite build",
