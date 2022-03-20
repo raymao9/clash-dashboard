@@ -22,7 +22,8 @@ const EN = {
             externalController: 'External controller',
         },
         values: {
-            cn: '中文',
+            tw: '繁體中文',
+            cn: '简体中文',
             en: 'English',
             global: 'Global',
             rules: 'Rules',
