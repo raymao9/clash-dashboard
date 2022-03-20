@@ -9,7 +9,7 @@ const TW = {
         Version: '核心版本',
     },
     Settings: {
-        title: 設定'',
+        title: '設定',
         labels: {
             startAtLogin: '開機自動啟動',
             language: '介面語言',
@@ -80,9 +80,9 @@ const TW = {
             title: '連線資訊',
             id: 'ID',
             host: '域名',
-            hostEmpty: '',
+            hostEmpty: '無',
             dstIP: 'IP',
-            dstIPEmpty: '',
+            dstIPEmpty: '無',
             srcIP: '來源',
             upload: '上傳',
             download: '下載',
